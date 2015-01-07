@@ -24,9 +24,9 @@
     "sinon": "~1.11.1"
   },
   "dependencies": {
-    "browser-serialport": "*",
+    "browser-serialport": "^1.0.6",
     "object-assign": "~1.0.0",
-    "serialport": ">=0.7.5"
+    "serialport": "^1.4.10"
   },
   "optionalDependencies": {},
   "scripts": {
